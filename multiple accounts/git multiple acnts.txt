@@ -1,0 +1,15 @@
+Note:
+
+Aidetic Haigreve Video Analytics
+
+> mere local me 2 ssh keys thi : personal (beingsahil99) & aidetic wala
+personal-git : username - mohdsahil email - beingsahil99 (ye ek hi hota h)
+
+
+by default personl-git tha
+
+> jab push kia to Aidetic ki repo me mera personal wale se push ho gaya
+
+
+iska solution ye h ki
+> apna username aur email change karo
