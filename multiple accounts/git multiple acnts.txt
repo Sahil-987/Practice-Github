@@ -1,15 +1,25 @@
 Note:
 
 Aidetic Haigreve Video Analytics
+Timeline : september/october - 2022
 
 > mere local me 2 ssh keys thi : personal (beingsahil99) & aidetic wala
-personal-git : username - mohdsahil email - beingsahil99 (ye ek hi hota h)
+personal-git : username - mohdsahil 
+email - beingsahil99 (ye ek hi hota h)
 
 
-by default personl-git tha
+Issues
 
-> jab push kia to Aidetic ki repo me mera personal wale se push ho gaya
+> bhale he wo ek private repository thi, aur jo mujhe access mila tha wo meri aidetic wali mail-id se tha, personal se nahi
+> git clone kia tha using ssh-key (aidetic mail id se jo github a/c banaya tha uski ssh-key generate kari thi)
+> jab push kia to Aidetic ki repo me mera personal wale se push ho gaya (by default git (local) username and email personal wala tha)
+> Jo official github ki repo thi Aidetic Haigreve Video Analytics wali, 
+usmi jo mera contribution tha wo meri personal mail-id se show ho raha tha,
+jabki personal mail id se mujhe access mili bhi nahi thi
+ --> most probably ye ek bug ho sakta h
 
 
-iska solution ye h ki
-> apna username aur email change karo
+Solution
+> iska solution ye h ki --> apna username aur email change karo (apne local git se)
+
+
